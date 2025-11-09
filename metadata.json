@@ -1,0 +1,7 @@
+{
+  "name": "Bilal Finance AI",
+  "description": "An ultra-modern, mobile-first, AI-powered personal finance dashboard for Bilal Machraa, featuring conversational finance, receipt scanning, and predictive analytics with a neomorphic glassmorphism design.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
